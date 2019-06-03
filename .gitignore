@@ -75,3 +75,18 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Play/PlayTest/Content/AdvancedVillagePack/
+Play/PlayTest/Content/AncientTreasures/
+Play/PlayTest/Content/FPS_Weapon_Bundle/
+Play/PlayTest/Content/AnimalVarietyPack/
+Play/PlayTest/Content/FreeFurniturePack/Materials/M_Bathtub.uasset
+Play/PlayTest/Content/FreeFurniturePack/
+Play/PlayTest/Content/FXVarietyPack/
+Play/PlayTest/Content/NecrosUtilityMatPack/
+Play/PlayTest/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/BP_LightStudio.uasset
+Play/PlayTest/Content/ProceduralNaturePack/
+Play/PlayTest/Content/StarterContent/
+Play/PlayTest/Saved/
+Play/PlayTest/Intermediate/
+Play/PlayTest/Binaries/
+Play/PlayTest/Content/Overview.umap
